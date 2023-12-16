@@ -4,7 +4,10 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log(3+2);
+console.log("This is a message");
+console.log("'Lovely party. Pity I wasn't invited.' is a quote from one of my favorite movies");
 
 /*  
 Next, PLAY! 
